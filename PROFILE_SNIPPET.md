@@ -26,7 +26,5 @@ Paste this snippet into your special GitHub profile repository (`<username>/<use
 <br>
 <br>
 
-<sub>Built with <a href="https://github.com/Aiyzoxx/animated-terminal-profile">animated-terminal-profile</a> · Inspired by <a href="https://github.com/AVIVASHISHTA29">Avi Vashishta</a></sub>
-
 </div>
 ```
